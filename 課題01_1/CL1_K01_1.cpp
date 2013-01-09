@@ -1,3 +1,5 @@
+//‘å–ì’qŠ°//
+
 #include <stdio.h>
 
 void main(void){
