@@ -1,5 +1,4 @@
 //‘å–ì’qŠ°//
-//oono//
 
 #include <stdio.h>
 
